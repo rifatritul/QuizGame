@@ -1,0 +1,13 @@
+body{
+	background-color: lightcyan;
+	font-family: 'Roboto Mono', monospace;
+}
+#quiz-container{
+	display: none;
+}
+#submit, #next{
+	display: none;
+}
+#status{
+	color: red;
+}
