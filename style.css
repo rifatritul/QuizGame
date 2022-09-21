@@ -1,0 +1,16 @@
+body{
+	display: block;
+	justify-content: center;
+	text-align: center;
+	background-color: lightcyan;
+}
+#quiz-container{
+	display: none;
+}
+#submit, #next{
+	display: none;
+	align-content: center;
+}
+#status{
+	color: red;
+}
