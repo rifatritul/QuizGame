@@ -1,0 +1,12 @@
+body{
+	background-color: lightcyan;
+}
+#quiz-container{
+	display: none;
+}
+#submit, #next{
+	display: none;
+}
+#status{
+	color: red;
+}
